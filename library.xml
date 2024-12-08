@@ -1,0 +1,23 @@
+<library>
+    <books>
+        <book id="1">
+            <title>Clean Code</title>
+            <author>Robert C. Martin</author>
+            <year>2008</year>
+            <available>true</available>
+        </book>
+        <book id="2">
+            <title>The Pragmatic Programmer</title>
+            <author>Andy Hunt, Dave Thomas</author>
+            <year>1999</year>
+            <available>false</available>
+        </book>
+    <book id="3"><title>Quimica III</title><author>Matheus Bezerra</author><year>2024</year><available>false</available></book><book id="4"><title>As Cronicas de Narnia</title><author>l.w</author><year>2000</year><available>true</available></book></books>
+    <loans>
+        <loan>
+            <bookId>1</bookId>
+            <reader>John Doe</reader>
+            <date>2024-11-28</date>
+        </loan>
+    <loan><bookId>2</bookId><reader>Matheus</reader><date>2024-12-08</date></loan><loan><bookId>3</bookId><reader>Gabriela</reader><date>2024-12-08</date></loan></loans>
+</library>
