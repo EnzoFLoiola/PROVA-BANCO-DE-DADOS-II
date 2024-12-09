@@ -51,5 +51,5 @@ Para executar o projeto, você precisa ter:
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/sistema-biblioteca-xml.git
-   cd sistema-biblioteca-xml
+   git clone https://github.com/EnzoFLoiola/PROVA-BANCO-DE-DADOS-II.git
+   cd PROVA-BANCO-DE-DADOS-II
